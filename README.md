@@ -1,6 +1,6 @@
 # Meteor Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 12/13/2024
+This data is updated weekly, with filled postings removed. Last updated: 12/17/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Meteor Jobs](https://algojobs.io/jobs/meteor)
 
